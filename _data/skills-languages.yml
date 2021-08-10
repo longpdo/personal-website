@@ -16,11 +16,11 @@
 - name: CSS3
   weight: 3
 
-- name: SASS
+- name: SCSS
   weight: 3
 
 - name: Dart
   weight: 2
 
 - name: Java
-  weight: 1
+  weight: 2

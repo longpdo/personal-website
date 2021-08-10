@@ -10,14 +10,11 @@
 - name: Scrum
   weight: 3
 
-- name: Travis CI
-  weight: 1
-
 - name: Jenkins
-  weight: 1
+  weight: 2
 
 - name: Chrome DevTools
-  weight: 2
+  weight: 3
 
 - name: npm
   weight: 3

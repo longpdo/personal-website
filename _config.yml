@@ -3,11 +3,11 @@ title: Long Do
 description: Personal website powered by Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. https://example.com/
-updated: 2020
+updated: 2021
 
 # Landing Page
 username: Long Do
-typing_text: Front-End Developer
+typing_text: Full Stack Developer
 email: long.p.do@fau.de
 github_username: longpdo
 codepen_username: longpdo

@@ -2,15 +2,12 @@
   weight: 4
 
 - name: AngularJS
-  weight: 3
-
-- name: React.js
-  weight: 2
+  weight: 4
 
 - name: React Native
   weight: 2
 
-- name: Node.js
+- name: JBoss
   weight: 1
 
 - name: Flutter
@@ -23,10 +20,13 @@
   weight: 3
 
 - name: Protractor
-  weight: 2
+  weight: 3
 
 - name: Jekyll
   weight: 4
 
 - name: SpringBoot
+  weight: 2
+
+- name: NgRx
   weight: 2
