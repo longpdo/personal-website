@@ -6,3 +6,4 @@ node_modules
 .env
 .prettierignore
 .jekyll-metadata
+yarn-error.log
