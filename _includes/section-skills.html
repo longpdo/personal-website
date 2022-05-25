@@ -3,21 +3,21 @@
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
-  <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="language">Languages</label>
-  <input type="radio" id="framework" name="filter" />
-  <label class="filter-button neumorphism-button" for="framework">Frameworks</label>
+  <input type="radio" id="frontend" name="filter" />
+  <label class="filter-button neumorphism-button" for="frontend">Frontend</label>
+  <input type="radio" id="backend" name="filter" />
+  <label class="filter-button neumorphism-button" for="backend">Backend</label>
   <input type="radio" id="tool" name="filter" />
   <label class="filter-button neumorphism-button" for="tool">Tools</label>
 
-  {% for language in site.data.skills-languages %}
-    <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
-      {{language.name}}
+  {% for frontend in site.data.skills-frontend %}
+    <div skill-type="frontend" skill-weight="{{frontend.weight}}" data-aos="zoom-in">
+      {{frontend.name}}
     </div>
   {% endfor %}
-  {% for framework in site.data.skills-frameworks %}
-    <div skill-type="framework" skill-weight="{{framework.weight}}" data-aos="zoom-in">
-      {{framework.name}}
+  {% for backend in site.data.skills-backend %}
+    <div skill-type="backend" skill-weight="{{backend.weight}}" data-aos="zoom-in">
+      {{backend.name}}
     </div>
   {% endfor %}
   {% for tool in site.data.skills-tools %}

@@ -451,11 +451,11 @@ a {
     transition: opacity 0.5s;
   }
 
-  div[skill-type="language"] {
+  div[skill-type="frontend"] {
     color: #e84a5f;
   }
 
-  div[skill-type="framework"] {
+  div[skill-type="backend"] {
     color: #ff847c;
   }
 
@@ -792,18 +792,18 @@ a {
       @include neumorphism-button-pressed();
     }
 
-    input[id="language"]:checked ~ div[skill-type="framework"],
-    input[id="language"]:checked ~ div[skill-type="tool"] {
+    input[id="frontend"]:checked ~ div[skill-type="backend"],
+    input[id="frontend"]:checked ~ div[skill-type="tool"] {
       @include filter-out;
     }
 
-    input[id="framework"]:checked ~ div[skill-type="language"],
-    input[id="framework"]:checked ~ div[skill-type="tool"] {
+    input[id="backend"]:checked ~ div[skill-type="frontend"],
+    input[id="backend"]:checked ~ div[skill-type="tool"] {
       @include filter-out;
     }
 
-    input[id="tool"]:checked ~ div[skill-type="language"],
-    input[id="tool"]:checked ~ div[skill-type="framework"] {
+    input[id="tool"]:checked ~ div[skill-type="frontend"],
+    input[id="tool"]:checked ~ div[skill-type="backend"] {
       @include filter-out;
     }
   }

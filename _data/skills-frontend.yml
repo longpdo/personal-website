@@ -1,3 +1,21 @@
+- name: TypeScript
+  weight: 4
+
+- name: JavaScript
+  weight: 4
+
+- name: HTML5
+  weight: 3
+
+- name: CSS3
+  weight: 3
+
+- name: SCSS
+  weight: 3
+
+- name: Dart
+  weight: 2
+
 - name: Angular
   weight: 4
 
@@ -7,14 +25,8 @@
 - name: React Native
   weight: 2
 
-- name: JBoss
-  weight: 1
-
 - name: Flutter
   weight: 2
-
-- name: Selenium
-  weight: 3
 
 - name: Jasmine
   weight: 3
@@ -25,8 +37,8 @@
 - name: Jekyll
   weight: 4
 
-- name: SpringBoot
+- name: NgRx
   weight: 2
 
-- name: NgRx
+- name: Cucumber
   weight: 2
