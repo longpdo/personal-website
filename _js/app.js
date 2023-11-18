@@ -6,6 +6,11 @@ $(document).ready(function() {
   $(window).on('beforeunload', function() {
     window.scrollTo(0, 0);
   });
+    
+    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+    particlesJS.load('particles-js', 'assets/particles.json', function() {
+      console.log('callback - particles.js config loaded');
+    });
 
   // Typing Text
   var element = document.getElementById('txt-rotate');

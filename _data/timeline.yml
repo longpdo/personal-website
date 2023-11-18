@@ -1,52 +1,48 @@
-- title: adorsys
-  title-url: https://adorsys.de/
-  date: Sep 2020 - Present
-  subtitle: Software Developer
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: SangMyung University
+  title-url: https://www.smu.ac.kr/kor/index.do
+  date: 2014.03 - 2020.02 (4Y)
+  subtitle: B.Sc Information and Communication Engineering
   tags:
-    - tag: Angular
-    - tag: AngularJS
-    - tag: SpringBoot
-    - tag: Java
   timeline-side: right
-
-- title: Digital Tech Summit Hackathon
-  title-url: https://www.gotechsummit.com/
-  date: 2019
-  subtitle: "2nd place - Novartis & Müller Medien Health Challenge."
-  github: https://github.com/team-ver/face_classification
+ 
+- title: (주)크몽
+  title-url: https://kmong.com/
+  date: 2019.12 - 2020.10 (10M)
+  subtitle: 외주작업
   tags:
-    - tag: Python
-    - tag: Keras CNN model
-    - tag: openCV
-    - tag: Raspberry Pi
+    - tag: C#
+    - tag: Unity
   timeline-side: left
 
-- title: adorsys
-  title-url: https://adorsys.de/
-  date: Mar 2019 - Aug 2020
-  subtitle: Software Developer as Working Student
+- title: MondayOFF
+  title-url: https://www.mondayoff.me/
+  date: 2020.10 - Present (3Y 1M)
+  subtitle: Client Programmer
   tags:
-    - tag: Angular
-    - tag: AngularJS
-    - tag: Jasmine
-    - tag: JBoss
-    - tag: Keycloak
+    - tag: C#
+    - tag: Unity
+    - tag: Game Planning
+    - tag: Data Managing
+    - tag: QA
+    - tag: Project Maintenance
+    - tag: Luna Playable
   timeline-side: right
-
-- title: Friedrich-Alexander University
-  title-url: https://www.fau.de/
-  date: 2018 - 2020
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Friedrich-Alexander University
-  title-url: https://www.fau.de/
-  date: 2015 - 2018
-  subtitle: B.A. Computer Science & Sociology
-  timeline-side: left
-
-- title: Friedrich-Alexander University
-  title-url: https://www.fau.de/
-  date: 2011 - 2015
-  subtitle: B.Sc. Computer Science
-  timeline-side: left

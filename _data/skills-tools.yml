@@ -1,38 +1,27 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Unity
+  weight: 4
+  
 - name: Git
   weight: 4
 
-- name: Zsh
+- name: VS Code
   weight: 4
-
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Kanban
-  weight: 2
-
-- name: Jenkins
-  weight: 2
-
-- name: Chrome DevTools
-  weight: 3
-
-- name: npm
-  weight: 3
-
-- name: gulp
-  weight: 3
-
-- name: Maven
-  weight: 2
-
-- name: Github Actions
-  weight: 2
-
-- name: Docker
-  weight: 2
-
-- name: Ansible
+  
+- name: Unreal Engine4
   weight: 1
+  
+- name: iTerm
+  weight: 2
+  
+- name: Homebrew
+  weight: 2
+  
+- name: XCode
+  weight: 2
