@@ -1,7 +1,7 @@
 # Site settings
 title: YoungMin Resume
 description: Resume
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/resume" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. https://example.com/
 updated: 2023
 
