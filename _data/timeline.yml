@@ -22,7 +22,7 @@
   date: 2014.03 - 2020.02 (4Y)
   subtitle: B.Sc Information and Communication Engineering
   tags:
-  timeline-side: right
+  timeline-side: left
  
 - title: (주)크몽
   title-url: https://kmong.com/
@@ -31,7 +31,8 @@
   tags:
     - tag: C#
     - tag: Unity
-  timeline-side: left
+    - tag: Git
+  timeline-side: right
 
 - title: MondayOFF
   title-url: https://www.mondayoff.me/
@@ -40,9 +41,10 @@
   tags:
     - tag: C#
     - tag: Unity
-    - tag: Game Planning
-    - tag: Data Managing
+    - tag: Git
+    - tag: Game-Planning
     - tag: QA
-    - tag: Project Maintenance
-    - tag: Luna Playable
+    - tag: Data-Management
+    - tag: Project-Maintenance
+    - tag: Luna-Labs
   timeline-side: right
