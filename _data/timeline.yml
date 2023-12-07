@@ -17,34 +17,17 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: SangMyung University
-  title-url: https://www.smu.ac.kr/kor/index.do
-  date: 2014.03 - 2020.02 (4Y)
-  subtitle: B.Sc Information and Communication Engineering
-  tags:
+- title: A
+  title-url: 
+  date: 20xx.xx - 20xx.xx (Y M)
+  subtitle: test
+  tags:test
   timeline-side: left
  
-- title: (주)크몽
-  title-url: https://kmong.com/
-  date: 2019.12 - 2020.10 (10M)
-  subtitle: Outsourcing Work
+- title: B
+  title-url:
+  date: 20xx.xx - 20xx.xx (Y M)
+  subtitle:
   tags:
-    - tag: C#
-    - tag: Unity
-    - tag: Git
-  timeline-side: right
-
-- title: MondayOFF
-  title-url: https://www.mondayoff.me/
-  date: 2020.10 - Present (3Y 1M)
-  subtitle: Client Programmer
-  tags:
-    - tag: C#
-    - tag: Unity
-    - tag: Git
-    - tag: Game-Planning
-    - tag: QA
-    - tag: Data-Management
-    - tag: Project-Maintenance
-    - tag: Luna-Labs
-  timeline-side: right
+    - tag:
+  timeline-side: left
