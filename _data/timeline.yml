@@ -1,52 +1,33 @@
-- title: adorsys
-  title-url: https://adorsys.de/
-  date: Sep 2020 - Present
-  subtitle: Software Developer
-  tags:
-    - tag: Angular
-    - tag: AngularJS
-    - tag: SpringBoot
-    - tag: Java
-  timeline-side: right
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
 
-- title: Digital Tech Summit Hackathon
-  title-url: https://www.gotechsummit.com/
-  date: 2019
-  subtitle: "2nd place - Novartis & Müller Medien Health Challenge."
-  github: https://github.com/team-ver/face_classification
-  tags:
-    - tag: Python
-    - tag: Keras CNN model
-    - tag: openCV
-    - tag: Raspberry Pi
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: A
+  title-url: 
+  date: 20xx.xx - 20xx.xx (Y M)
+  subtitle: test
+  tags:test
   timeline-side: left
-
-- title: adorsys
-  title-url: https://adorsys.de/
-  date: Mar 2019 - Aug 2020
-  subtitle: Software Developer as Working Student
+ 
+- title: B
+  title-url:
+  date: 20xx.xx - 20xx.xx (Y M)
+  subtitle:
   tags:
-    - tag: Angular
-    - tag: AngularJS
-    - tag: Jasmine
-    - tag: JBoss
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Friedrich-Alexander University
-  title-url: https://www.fau.de/
-  date: 2018 - 2020
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Friedrich-Alexander University
-  title-url: https://www.fau.de/
-  date: 2015 - 2018
-  subtitle: B.A. Computer Science & Sociology
-  timeline-side: left
-
-- title: Friedrich-Alexander University
-  title-url: https://www.fau.de/
-  date: 2011 - 2015
-  subtitle: B.Sc. Computer Science
+    - tag:
   timeline-side: left

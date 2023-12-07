@@ -6,6 +6,7 @@ $(document).ready(function() {
   $(window).on('beforeunload', function() {
     window.scrollTo(0, 0);
   });
+    
 
   // Typing Text
   var element = document.getElementById('txt-rotate');

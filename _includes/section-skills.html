@@ -4,18 +4,18 @@
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
   <input type="radio" id="frontend" name="filter" />
-  <label class="filter-button neumorphism-button" for="frontend">Frontend</label>
+  <label class="filter-button neumorphism-button" for="frontend">Platform</label>
   <input type="radio" id="backend" name="filter" />
-  <label class="filter-button neumorphism-button" for="backend">Backend</label>
+  <label class="filter-button neumorphism-button" for="backend">Languages</label>
   <input type="radio" id="tool" name="filter" />
   <label class="filter-button neumorphism-button" for="tool">Tools</label>
 
-  {% for frontend in site.data.skills-frontend %}
+  {% for frontend in site.data.skills-platform %}
     <div skill-type="frontend" skill-weight="{{frontend.weight}}" data-aos="zoom-in">
       {{frontend.name}}
     </div>
   {% endfor %}
-  {% for backend in site.data.skills-backend %}
+  {% for backend in site.data.skills-languages %}
     <div skill-type="backend" skill-weight="{{backend.weight}}" data-aos="zoom-in">
       {{backend.name}}
     </div>

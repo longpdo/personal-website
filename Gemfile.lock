@@ -270,16 +270,19 @@ GEM
       unf_ext
     unf_ext (0.0.8.1)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-darwin-21
 
 DEPENDENCIES
   dotenv
   github-pages
   jekyll
   jekyll-github-metadata
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.14
