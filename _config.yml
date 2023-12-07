@@ -11,7 +11,7 @@ lang : ko-KR
 username: YoungMin CHoi
 typing_text: Game Client Developer
 email: psymchoi@gmail.com
-github_username: Jpot777
+github_username: richrookie
 linkedin_username: youngmin-choi-bs-2405b6208
 
 # About Me Section
@@ -39,7 +39,7 @@ show_contact_card: true
 contact_title: Get In Touch
 
 # Github-Metadata
-repository: Jpot777
+repository: richrookie
 projects:
   # pushed or stars
   sort_by: stars
